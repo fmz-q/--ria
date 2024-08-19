@@ -103,7 +103,7 @@ function lsd() {
 function rainku() {
     memberCall(
         "assets/mew_icon.png", 
-        "<a href='https://snapchat.com/@elliot_bajskorv' target='_blank' style='color: white;'>snapchat</a>, <a href='https://www.instagram.com/elliot_xeqlti/' target='_blank' style='color: white;'>instagram</a>, <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>",
+        "<a href='https://snapchat.com/@elliot_bajskorv' target='_blank' style='color: white;'>snapchat</a>, <a href='https://www.instagram.com/elliot_xeqlti/' target='_blank' style='color: white;'>instagram</a>,  <a href='https://www.roblox.com/users/958031159/profile' target='_blank' style='color: white;'>roblox </a>,  <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>",
         "rainku"
     );
 }
@@ -116,13 +116,7 @@ function valexnt() {
     );
 }
 
-function loundra() {
-    memberCall(
-        "assets/l7_icon.png",
-        "<a href='https://solo.to/fmzq' target='_blank' style='color: white;'>solo.to</a>",
-        "l7"
-    );
-}
+
 
 
 
@@ -187,6 +181,7 @@ function updatePage(htmlContent, pageTitle) {
 
 function domains() {
     updatePage(
+        "assets/valexnt_icon.png",
         "<a href='none' target='_blank' style='color: white;'>none</a>",
         "projects"
     );
