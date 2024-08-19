@@ -181,7 +181,6 @@ function updatePage(htmlContent, pageTitle) {
 
 function domains() {
     updatePage(
-        "assets/valexnt_icon.png",
         "<a href='none' target='_blank' style='color: white;'>none</a>",
         "projects"
     );
