@@ -179,12 +179,15 @@ function updatePage(htmlContent, pageTitle) {
 }
 
 
-function domains() {
+
+function fmzq() {
     updatePage(
-        "<a href='none' target='_blank' style='color: white;'>none</a>",
-        "projects"
+        "<a href='' target='_blank' style='color: white;'>",
+        "about"
     );
 }
+
+
 
 function about() {
     updatePage(
