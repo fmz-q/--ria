@@ -111,7 +111,7 @@ function rainku() {
 function valexnt() {
     memberCall(
         "assets/valexnt_icon.png",
-        "<a href='https://discord.com/users/1274705405322334250' target='_blank' style='color: white;'>discord</a>, <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>,  <a href='https://discord.gg/mKZj32aU' target='_blank' style='color: white;'>discord</a>
+        "<a href='https://discord.com/users/1274705405322334250' target='_blank' style='color: white;'>discord</a>, <a href='https://t.me/f_mzq' target='_blank' style='color: white;'>telegram</a>,  <a href='https://discord.gg/mKZj32aU' target='_blank' style='color: white;'>discord</a>",
         "valexnt"
     );
 }
