@@ -95,7 +95,7 @@ function memberCall(pfpSrc, textContent, user) {
 function lsd() {
     memberCall(
         "assets/gen_icon.png",
-        "<a href='https://solo.to/fmzq' target='_blank' style='color: white;'>solo.fmzq</a>",
+        "<a href='https://solo.to/fmzq' target='_blank' style='color: white;'>solo.fmzq</a>, <a href='https:/solo.to/com' target='_blank' style='color: white;'>solo.to/com</a>",
         "lsd"
     );
 }
